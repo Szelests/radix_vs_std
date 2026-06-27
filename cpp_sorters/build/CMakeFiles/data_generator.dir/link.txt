@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -Wall -Wl,--dependency-file=CMakeFiles/data_generator.dir/link.d CMakeFiles/data_generator.dir/src/data_generator.cpp.o -o data_generator
